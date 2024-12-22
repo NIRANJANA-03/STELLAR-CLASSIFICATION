@@ -1,5 +1,5 @@
 
-#StellarVision: AI-Based Astronomical Object Classification
+# StellarVision: AI-Based Astronomical Object Classification
 
 
 This project involves the classification of astronomical objects such as stars, galaxies, and quasars based on their spectral characteristics using the Sloan Digital Sky Survey DR17 dataset. Various machine learning models were trained and evaluated, including Random Forest, K-Nearest Neighbors, and Decision Tree, to determine the best model for accurate classification.
